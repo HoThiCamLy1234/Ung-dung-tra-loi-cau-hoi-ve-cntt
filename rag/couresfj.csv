@@ -1,0 +1,487 @@
+CourseDescription
+"CourseTitle: Python for beginners
+ CourseDescription
+ Master the Features of Python Language
+ Install Python Virtual Machine and the Eclipse IDE(PyDev)
+ Execute your first python program
+ Learn various simple types as well as collection types
+ Define logic using conditional statements ,looping constructs
+ Use the different types of operators
+ See the input and output functions in action
+ Pass Command line arguments
+ Create and use functions , Lambdas Decorators and Generators
+ Learn what Object Oriented Programming is the four OOPs principles
+ InstructorName: Bharath Thippireddy
+ Price: $79"
+"Learn Python Programming Masterclass
+ CourseDescription:
+ Have a fundamental understanding of the Python programming language.
+ Have the skills and understanding of Python to confidently apply for Python programming jobs.
+ Acquire the pre-requisite Python skills to move into specific branches - Machine Learning, Data Science, etc..
+ Add the Python Object-Oriented Programming (OOP) skills to your rï¿½sumï¿½.
+ Understand how to create your own Python programs.
+ Learn Python from experienced professional software developers.
+ Understand both Python 2 and Python 3.
+ InstructorName: Tim Buchalka, Jean-Paul Roberts, Tim Buchalka's Learn Programming Academy
+ Price: $104"
+"Learn to Code with Python
+ CourseDescription:
+ Master programming in Python, a popular language that powers codebases in tech companies like Instagram, Pinterest, Dropbox and more
+ Dive into the mechanics of Python's data structures including strings, lists, dictionaries, tuples, and sets
+ Apply your knowledge to solve common interview questions, algorithms and coding challenges
+ Explore a dynamic curriculum with videos, quizzes, written assignments, in-browser coding challenges and more
+ InstructorName: Boris Paskhaver
+ Price: $91"
+"SQL Programming Basics
+ CourseDescription:
+ Learn the fundamentals of SQL
+ Learn how to request data from a server, limit and sort the responses, aggregate data from multiple tables
+ SQL is a special-purpose programming language designed for managing data in a relational database, and is used by a huge number of apps and organizations.
+ 
+  In this course you'll learn the core concepts of the SQL programming language. You'll learn how to use SQL to store, query, and manipulate data. 
+ Learn how to request data from a server, limit and sort the responses, aggregate data from multiple tables with joins, and edit and delete data. 
+ 
+ We'll then show you the basics of creating tables and selecting data in various different ways. 
+ You'll learn important concepts associated with relational databases. You will run SQL commands to create database tables and define data element types..
+ 
+  By the end of this course you should have a good understanding of the SQL programming language. 
+ InstructorName: Global Academy
+ Price: $18"
+"SQL for Data Analysis: Beginner MySQL Business Intelligence
+ CourseDescription:
+ Write SQL queries to explore and analyze databases with MySQL Workbench
+ Learn how to use SQL to extract, sort, filter, and group data quickly and efficiently
+ Analyze data across multiple tables with powerful MySQL JOIN statements
+ Solve practical hands-on assignments and real-world business use cases
+ Master unique tips, tools and case studies that you won't find anywhere else
+ Get LIFETIME access to resource files, quizzes, assignments, and expert support
+ InstructorName:John Pauler, Maven Analytics
+ Price: $95"
+"Data science with R: tidyverse
+ CourseDescription:
+ How to use R's tidyverse libraries in your data science projects
+ How to write efficient R code for data science related tasks
+ What is clean data
+ How to clean your data with R
+ What is grammar of data wrangling
+ How to wrangle data with dplyr and tidyr
+ How to import data into R
+ How to properly parse imported data
+ InstructorName:Marko Intihar
+ Price: $58"
+"R for Beginners
+ CourseDescription:
+ Install R and RStudio and create R script and be able to save your work in R project
+ Be able to differentiate between different R data structures such as: string, number, vector, matrix, data frame, factor, date and time object, and many more
+ Be able to access elements from R objects, and be able to reshape R objects
+ Write R program for executing repetitive tasks using loops and vectorized code
+ InstructorName: Marko Intihar
+ Price: $58"
+"ETL Testing: From Beginner to Expert
+ CourseDescription:
+ Understand the concepts of Business Intelligence Data warehousing
+ Get to know what is ETL Testing, QA Lifecycle and RDBMS Concepts
+ Gain an in-depth understanding of Data Warehouse WorkFlow and comparison between Database Testing and Data Warehouse Testing
+ Understand different ETL Testing scenarios like Constraint Testing, Source to Target Testing, Business Rules Testing, Negative Scenarios, Dependency Testing
+ Perform data Checks using SQL and understand the scope of BI Testing
+ InstructorName: Sid Inf
+ Price: $60"
+"Project on Data Warehouse / ETL Testing
+ CourseDescription:
+ In this course you will able to work on Real Time Project
+ You can learn how to do ETL Testing on the Banking database
+ You will be able to do End-End ETL Testing using RDBMS
+ You will learn Meta Data Test, Constraint Test, Validations etc
+ InstructorName: Blismos Academy
+ Price: $17"
+"Tableau 2023-24 Training for Data Analysts + Certification
+ CourseDescription:
+ Gain a deep understanding of Tableau Public, Desktop, Prep, Online, Server, and Bridge from the perspective of a Professional Analyst
+ Master the skills needed to create visually appealing and interactive data visualizations using Tableau
+ Learn advanced techniques to manipulate and transform data in Tableau Prep
+ Acquire the knowledge to publish and share data visualizations on Tableau Public, Tableau Online and Tableau Server
+ InstructorName: Jed Guinto
+ Price: $62"
+"Tableau - Basics to Advanced
+ CourseDescription:
+ ow to install Tableau Desktop and Prep
+ Create various different basic charts
+ Create advanced dashboards
+ Detailed understanding of Level of details and 15 practical examples
+ Detailed understanding of Table calculations with 10 practical examples
+ Usage of sets and parameters
+ Advanced data preparation
+ Detailed understanding of time series
+ InstructorName: Rahul Tiwari
+ Price: $17"
+"The Complete SQL Bootcamp: Go from Zero to Hero
+ CourseDescription:
+ Use SQL to query a database
+ Use SQL to perform data analysis
+ Be comfortable putting SQL and PostgreSQL on their resume
+ Learn to perform GROUP BY statements
+ Replicate real-world situations and query reports
+ InstructorName: Jose Portilla
+ Price: $104"
+"Complete Microsoft SQL Server Database Administration Course
+ CourseDescription:
+ By the end of this course you will be a professional SQL database administrator and be able to apply for SQL jobs
+ Administration of SQL database through Microsoft Windows
+ You will learn 150+ SQL queries
+ You will be able to troubleshoot everyday SQL related issues
+ You will manage SQL servers in a corporate environment
+ You will write basic to advance SQL queries
+ InstructorName: Imran Afzal, Abbas Mehmood
+ Price: $83"
+"The Complete Python Course | Learn Python by Doing in 2023
+ CourseDescription:
+ From foundations to expert, learn about every major Python topic, working with Python 3.
+ Write professional-grade Pythonic code with all the best practices and avoiding common pitfalls.
+ Master Object-Oriented Programming and structure your Python programs like a professional.
+ Swiftly understand complex topics like decorators, algorithms, and asynchronous programming in Python.
+ InstructorName: Codestars ï¿½ over 2 million students worldwide!, Jose Salvatierra, Teclado by Jose Salvatierra
+ Price: $95"
+"Complete Python Developer in 2023: Zero to Mastery. How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!249.000.Become a professional Python Developer and get hired
+ Master modern Python 3.11(latest) fundamentals as well as advanced topics
+ Learn Object Oriented Programming
+ Learn Function Programming
+ Build 12+ real world Python projects you can show off
+ Learn how to use Python in Web Development
+ Learn Machine Learning with Python
+ Build a Machine Learning Model
+ Learn Data Science - Analyze and Visualize Data
+ Build a professional Portfolio"
+Learn Complete Python In Simple Way. Direct Class Room Videos To give Left & Right Anywhere about Python 3 Concepts In Detail From Beginner to Expert Level. 249.000. Student can get much perfection on Complete Python concepts and in a position to develop applications
+"The Data Analyst Course: Complete Data Analyst Bootcamp. Complete Data Analyst Training: Python, NumPy, Pandas, Data Collection, Preprocessing, Data Types, Data Visualization. The course provides the complete preparation you need to become a data analyst
+ Fill up your resume with in-demand data skills: Python programming, NumPy, pandas, data preparation - data collection, data cleaning, data preprocessing, data visualization; data analysis, data analytics
+ Acquire a big picture understanding of the data analyst role
+ Learn beginner and advanced Python
+ Study mathematics for Python
+ We will teach you NumPy and pandas, basics and advanced
+ Be able to work with text files
+ Understand different data types and their memory usage
+ Learn how to obtain interesting, real-time information from an API with a simple script
+ Clean data with pandas Series and DataFrames
+ Complete a data cleaning exercise on absenteeism rate
+ Expand your knowledge of NumPy – statistics and preprocessing
+ Go through a complete loan data case study and apply your NumPy skills
+ Master data visualization
+ Learn how to create pie, bar, line, area, histogram, scatter, regression, and combo charts
+ Engage with coding exercises that will prepare you for the job
+ Practice with real-world data
+ Solve a final capstone project. $55"
+"Data Analysts Toolbox: Excel, Python, Power BI, PivotTables
+ Learn Advanced Pivot Tables, Power Query, Power Pivot, Power BI, and Python in this four-course bundle. $49. Simon Sez IT. How to create amazing looking dashboards using Pivot Tables
+ Advanced data analysis techniques
+ How to do a PivotTable (a quick refresher)
+ How to format a PivotTable, including adjusting styles
+ Advanced Sorting and Filtering in PivotTables
+ How to use 3D Maps from a PivotTable
+ How to update your data in a PivotTable and Pivot Chart
+ Advanced Sorting and Filtering in PivotTables
+ Analyze huge buckets of data to make informed business decisions
+ Become confident cleaning, sorting and linking data from various sources
+ How to create stunning, interactive dashboards with Power BI
+ How to share your analysis and dashboards using Power BI Online
+ To import CSV and Excel files into Power BI Desktop
+ All about DAX including using the COUTROWS, CALCULATE, and SAMEPERIODLASTYEAR functions
+ All about using the card visual to create summary information
+ How to create amazing visuals, such as clustered column charts, maps, and trend graphs
+ How to use Slicers to filter your reports
+ How to edit the interactions between your visualizations and filter at visualization, page, and report level"
+"The Data Science Course: Complete Data Science Bootcamp
+ Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning. ???c t?o b?i , 365 Careers Team. The course provides the entire toolbox you need to become a data scientist
+ Fill up your resume with in demand data science skills: Statistical analysis, Python programming with NumPy, pandas, matplotlib, and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, Deep learning with TensorFlow
+ Impress interviewers by showing an understanding of the data science field
+ Learn how to pre-process data
+ Understand the mathematics behind Machine Learning (an absolute must which other courses don’t teach!)
+ Start coding in Python and learn how to use it for statistical analysis
+ Perform linear and logistic regressions in Python
+ Carry out cluster and factor analysis"
+"Become a Data Analyst - (Python, Excel, SQL, Power BI )Get Real World Data Analyst Skills with Hands-on Practice. Lecturers 247 Learning. Perform data analysis & visualization with Python
+ Perform data analysis & visualization with Excel
+ Perform data exploration and analysis with SQL
+ Perform data analysis & visualization with Power BI
+ Write SQL Queries to explore and analyse data
+ Connect to multiple data sources with Power BI
+ Clean & transform data
+ Create Dashboards with Power BI
+ Write SQL temporary table queries to extract and query data
+ Write SQL CTE queries to extract and query data"
+"The Business Intelligence Analyst Course 2023
+ The skills you need to become a BI Analyst - Statistics, Database theory, SQL, Tableau – Everything is included. Lecturers: 365 Careers. Become an expert in Statistics, SQL, Tableau, and problem solving
+ Boost your resume with in-demand skills
+ Gather, organize, analyze and visualize data
+ Use data for improved business decision-making
+ Present information in the form of metrics, KPIs, reports, and dashboards
+ Perform quantitative and qualitative business analysis
+ Analyze current and historical data
+ Discover how to find trends, market conditions, and research"
+"Data Science Meets Power BI: Transforming Data into Insights . Lecturers: Enterprise DNA. Master Python, R, and Power BI: Comprehensive Data Analytics and Visualisation Techniques for the Modern Analyst. Master integration of Python and R into Power BI for enhanced data analysis and visualizations.
+ Acquire skills in using IDEs for script creation, testing, and debugging in Python and R.
+ Understand how to apply Natural Language Processing (NLP) concepts and handle large datasets effectively.
+ Gain expertise in creating custom functions, performing advanced statistical analyses, and creating intricate visualizations not native to"
+"The Complete SQL Bootcamp: Go from Zero to Hero. Lecturers: Jose Portilla. Become an expert at SQL! Price: $100. Use SQL to query a database
+ Use SQL to perform data analysis
+ Be comfortable putting SQL and PostgreSQL on their resume
+ Learn to perform GROUP BY statements
+ Replicate real-world situations and query reports"
+"The Complete Oracle SQL Certification Course. Don't Just Learn the SQL Language, Become Job-Ready and Launch Your Career as a Certified Oracle SQL Developer! Lecturers: Imtiaz Ahmad. Become Job Ready to Start Contributing as a Database Developer Day 1
+ Program in the SQL Language to Solve a Variety of Database Problems
+ Code along with me to PRACTICE and IMPLEMENT everything you learn
+ Become a SQL Ninja and Understand How the Oracle Database Works
+ MASTER the Content Required to Pass the Oracle 1Z0-071 Database SQL Exam
+ Obtain the Skills that are Necessary to Land a Job as a SQL Developer
+ Have the Ability to Solve any SQL Problem"
+"SQL and PostgreSQL: The Complete Developer's Guide. lecturers: Stephen Grider. Master the fundamentals of relational databases
+ Acquire the skills necessary to obtain a database administrator (DBA) or database developer job
+ Design fast and efficient databases using the latest technologies
+ Practice your skills with many quizzes, projects, and built-in exercises
+ Learn and apply multiple database design patterns
+ Optimize queries for superb read and write efficiency
+ Understand how PostgreSQL stores information at the hardware level
+ Connect PostgreSQL to front-end apps using an API
+ Build common app features, such as a 'like' and 'mention' systems
+ Handle complex concurrency issues and race conditions. Price: $150"
+"Master SQL For Data Science
+ Become a SQL query wizard and never be afraid to look at a large SQL query again!. lecturers: Imtiaz Ahmad. Write complex SQL statements to query the database and gain critical insight on data
+ Practice Every Step of the Way by Working Through 100+ Puzzles (with solutions)
+ Transition from the Very Basics to a Point Where You can Effortlessly Work with Large SQL Queries
+ Learn Advanced Querying Techniques
+ Become a Master SQL Developer. price: $200"
+"Die komplette SQL Masterclass: Vom Anfänger zum Profi
+ Lerne MySQL & PostgreSQL. Schritt für Schritt und am Beispiel, auch für Data Science!. lecturers: Jannis Seemann. Lerne SQL Schritt für Schritt am Beispiel
+ Verstehe, wie eine Datenbank funktioniert
+ Fordere dich mit Übungsaufgaben heraus
+ Verstehe auch die Unterschiede von MySQL und PostgreSQL
+ Das Wissen kannst du fast 1:1 auch auf andere Datenbanken übertragen. Price: $100"
+"The Complete Oracle SQL Certification Course
+ Don't Just Learn the SQL Language, Become Job-Ready and Launch Your Career as a Certified Oracle SQL Developer!. lecturers: Imtiaz Ahmad. Become Job Ready to Start Contributing as a Database Developer Day 1
+ Program in the SQL Language to Solve a Variety of Database Problems
+ Code along with me to PRACTICE and IMPLEMENT everything you learn
+ Become a SQL Ninja and Understand How the Oracle Database Works
+ MASTER the Content Required to Pass the Oracle 1Z0-071 Database SQL Exam
+ Obtain the Skills that are Necessary to Land a Job as a SQL Developer
+ Have the Ability to Solve any SQL Problem. Price: $69"
+"The Data Science Course: Complete Data Science Bootcamp
+ Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning. lecturers: 365 Careers. The course provides the entire toolbox you need to become a data scientist
+ Fill up your resume with in demand data science skills: Statistical analysis, Python programming with NumPy, pandas, matplotlib, and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, Deep learning with TensorFlow
+ Impress interviewers by showing an understanding of the data science field
+ Learn how to pre-process data
+ Understand the mathematics behind Machine Learning (an absolute must which other courses don’t teach!)
+ Start coding in Python and learn how to use it for statistical analysis
+ Perform linear and logistic regressions in Python
+ Carry out cluster and factor analysis
+ Be able to create Machine Learning algorithms in Python, using NumPy, statsmodels and scikit-learn
+ Apply your skills to real-life business cases
+ Use state-of-the-art Deep Learning frameworks such as Google’s TensorFlowDevelop a business intuition while coding and solving tasks with big data
+ Unfold the power of deep neural networks
+ Improve Machine Learning algorithms by studying underfitting, overfitting, training, validation, n-fold cross validation, testing, and how hyperparameters could improve performance
+ Warm up your fingers as you will be eager to apply everything you have learned here to more and more real-life situations. Price: $200"
+"The Business Intelligence Analyst Course 2023
+ The skills you need to become a BI Analyst - Statistics, Database theory, SQL, Tableau – Everything is included. lecturers: 365 Careers. Become an expert in Statistics, SQL, Tableau, and problem solving
+ Boost your resume with in-demand skills
+ Gather, organize, analyze and visualize data
+ Use data for improved business decision-making
+ Present information in the form of metrics, KPIs, reports, and dashboards
+ Perform quantitative and qualitative business analysis
+ Analyze current and historical data
+ Discover how to find trends, market conditions, and research competitor positioning
+ Understand the fundamentals of database theory
+ Use SQL to create, design, and manipulate SQL databases
+ Extract data from a database writing your own queries
+ Create powerful professional visualizations in Tableau
+ Combine SQL and Tableau to visualize data from the source
+ Solve real-world business analysis tasks in SQL and Tableau. Price: $150"
+"Become an expert in Statistics, SQL, Tableau, and problem solving
+ Boost your resume with in-demand skills
+ Gather, organize, analyze and visualize data
+ Use data for improved business decision-making
+ Present information in the form of metrics, KPIs, reports, and dashboards
+ Perform quantitative and qualitative business analysis
+ Analyze current and historical data
+ Discover how to find trends, market conditions, and research competitor positioning
+ Understand the fundamentals of database theory
+ Use SQL to create, design, and manipulate SQL databases
+ Extract data from a database writing your own queries
+ Create powerful professional visualizations in Tableau
+ Combine SQL and Tableau to visualize data from the source
+ Solve real-world business analysis tasks in SQL and Tableau. lecturers: Jed Guinto. Gain a deep understanding of Tableau Public, Desktop, Prep, Online, Server, and Bridge from the perspective of a Professional Analyst
+ Master the skills needed to create visually appealing and interactive data visualizations using Tableau
+ Learn advanced techniques to manipulate and transform data in Tableau Prep
+ Acquire the knowledge to publish and share data visualizations on Tableau Public, Tableau Online and Tableau Server
+ Develop expertise in connecting to various data sources and creating data connections in Tableau
+ Learn to build dynamic dashboards and interactive reports for effective data analysis and storytelling
+ Discover best practices for designing intuitive and engaging data visualizations
+ Understand the principles of data storytelling and how to effectively communicate insights through Tableau
+ Prepare for Tableau certifications and gain confidence in passing them
+ Increase your employability by understanding what employers and stakeholders value. Price: $150"
+"Become a Data Analyst: Excel, SQL & Tableau - 3-in-1 Bundle
+ Boost Your Career with Data Analytics: Learn Excel, SQL & Tableau for Advanced Business Insights & Competitive Advantage. lecturers: Start-Tech Academy. Discover the power of Excel and use it to manipulate and analyze data like a pro.
+ Master SQL queries to extract, filter, and aggregate data from relational databases.
+ Explore Tableau's interface and create stunning visualizations that communicate insights.
+ Develop the skills to integrate data from multiple sources and create interactive dashboards in Tableau.
+ Apply best practices for data cleaning, wrangling, and transformation in Excel and SQL
+ Create dynamic and automated reports in Tableau that update with new data.
+ Use Excel and Tableau to identify trends, patterns, and outliers in data.
+ Develop a data-driven mindset and use data to make informed business decisions. Price: $100"
+"The Complete 2023 Software Testing Bootcamp
+ Everything you need to learn about software testing and begin your career as a Quality Assurance Specialist. lecturers: Tarek Roshdy. Basic Concepts of Software Testing
+ Test case & Bug Report Writing
+ Black-Box Test Techniques
+ Requirements Review & Test Scenarios Writing using Trello
+ Implementing the test process on a Test Management Tool (Testlink)
+ Basics of Agile methodologies & Agile Testing
+ How to use Application Lifecycle Management Tool (JIRA)
+ How to become a Freelance Tester
+ White-Box Test Techniques
+ Basics of API Testing
+ API Testing using Postman
+ Basics of Performance Testing using Jmeter
+ How to write a professional QA Resume
+ How to prepare for a QA Interview
+ Different certificates in Software Testing Field and how to apply on them. Price: $150"
+"Software Testing Masterclass (2023) - From Novice to Expert
+ Learn software testing and become QA Engineer/Agile Tester. Mobile/Backend/Web/QA testing. JIRA, TestRail & much more!lecturers: Ozan Ilhan. Learn the core testing skills needed to apply for Software Testing positions in just 7 hours.
+ Be able to demonstrate your understanding of software testing to future employers.
+ Test tooling, JIRA, Confluence, TestRail, TestLodge, Charles Proxy, Postman, gitHub and Miro which will help you to be a great software tester.
+ Discover the freelancing opportunities and start earning money from testing!
+ Engage with the testing community and learn all the hot topics in the IT industry. Price: $69"
+"ISTQB Certified Tester - Foundation Level 2023 - Accredited. lecturers: Wouter Vrijen. You will get a basic understanding on software testing
+ You will be able to discuss with other software testers using the same terminology
+ You have paved the road for further learning and advancement in the ISTQB certification scheme
+ With this course you will be able to pass the ISQTB - CTFL exam
+ You will have a high level overview on all parts included in software testing. Price: $50"
+"C Programming For Beginners - Master the C Language
+ C Programming will increase career options. Become a better dev in other languages by learning C. Pointers explained. lecturers: Tim Buchalka's Learn Programming Academy. Understand the fundamentals of the C Programming Language
+ Make yourself more marketable for entry level programming positions
+ Create your first C Application
+ Learn one of the most popular, widly used languages in the world
+ Understand variables and the different data types
+ Apply for real-time programming positions
+ Understand the core language that most modern languages are based on
+ Learn how to write high-quality code. Price: $100"
+"lecturers: Ultimate C# Masterclass for 2023
+ In-depth .NET programming course from basics to advanced. Focus on clean code, performance and practice. lecturers: Krystyna ?lusarczyk. You will gain an in-depth understanding of C#. $50
+ You will understand how to write high-performance C# code.
+ You will understand the principles of object-oriented programming
+ You will learn the most useful design patterns.
+ You will learn to write code of excellent quality.
+ You will gain the knowledge necessary for C# job interviews.
+ You will practice your skills by solving exercises in the browser, as well as by creating advanced projects.
+ You will learn how to use Visual Studio like a pro.
+ You will learn how to create unit tests using NUnit and Moq libraries"
+"LangChain- Develop LLM powered applications with LangChain
+ Learn LangChain by building FAST a real world generative ai LLM powered application LLM (Python). lecturers: Eden Marco. Become proficient in LangChain
+ Have an end to end working LangChain based generative AI application
+ Prompt Engineering Theory: Chain of Thought, ReAct, Few Shot prompting and understand how LangChain is build under the hood
+ Understand how to navigate inside the LangChain opensource codebase
+ Large Language Models theory for software engineers
+ LangChain: Lots of chains Chains, Agents,, DocumentLoader, TextSplitter, OutputParser, Memory
+ Vectorestores/ Vector Databasrs (Pinecone, FAISS). Price: $50"
+"Learn LangChain, Pinecone & OpenAI: Build Next-Gen LLM Apps
+ Hands-On Applications with LangChain, Pinecone, and OpenAI. Build Web Apps with Streamlit. Join the AI Revolution Today! lecturers: Andrei Dumitrescu. How to Use LangChain, Pinecone, and OpenAI to Build LLM-Powered Applications.
+ Learn about LangChain components, including LLM wrappers, prompt templates, chains, and agents.
+ Learn about the different types of chains available in LangChain, such as stuff, map_reduce, refine, and LangChain agents.
+ Acquire a solid understanding of embeddings and vector data stores.
+ Learn how to use embeddings and vector data stores to improve the performance of your LangChain applications.
+ Deep Dive into Pinecone. Price: $100"
+"LangChain MasterClass-#14 OpenAI LLAMA 2 LLM Apps|| Python
+ Discover real-world uses of LangChain, Pinecone, OpenAI & LLAMA 2 LLM . Build AI Apps with Streamlit - Hugging Face. lecturers: Sharath Raju. Helps you to create LLM powered applications usimg Langchain that will help you save time and increase efficiency
+ By the end of the course , you will be capable of working on langchain LLM real time projects
+ Explore useful concepts that can be used in your Langchain projects
+ You will gain a solid understanding of LangChain components like LLM wrappers, prompt templates, and Memory.
+ Additionally, we will delve into the concept of embeddings and vector data stores, learning how to utilize them effectively to enhance the performance of LangCh
+ Project 1: Construct a question-answering application powered by LLM using LangChain, OpenAI, and Hugging Face Spaces.
+ Project 2: Develop a conversational bot using LangChain,LLM and OpenAI.
+ Project 3: Build an AI-powered app for kids that helps them find similar classes of things.
+ Project 4: Create a marketing campaign app focused on increasing sales through well-crafted sales copy.
+ Project 5: Develop a ChatGPT clone with a summarization option, offering a useful chatbot experience.
+ Project 6 - MCQ Quiz Creator App - Helps you create MCQs for your students
+ Project 7: CSV Data Analysis Toll - Helps you analyze your CSV file by answering your queries about its data.
+ Project 8: Youtube Script Writing Tool - Effortlessly create compelling YouTube scripts with this user-friendly and efficient script-writing tool.
+ Project 9 - Support Chat Bot For Your Website - Helps your visitors/customers to find the relevant data or blog links that can be useful to them.
+ Project 10 - Automatic Ticket Classification Tool - The Automatic Ticket Classification Tool categorizes support tickets based on content to streamline ticket m
+ Project #11 - HR - Resume Screening Assistance - HR project using AI to assist in screening resumes, optimizing the hiring process with smart analysis and reco. Price: $50"
+"LangChain: Develop AI web-apps with JavaScript and LangChain
+ Create LLM applications with LangChain, OpenAI API, NextJS, and TailwindCSS. lecturers: Shawn Esquivel. Chat With Anything - use AI to chat with books, videos, etc.
+ Supercharge Your Work - create autonomous AI agents that can ""think"" through complex tasks
+ Launch Your Product - display your AI projects for potential employers/customers to see
+ Troubleshoot Anything - how to use AI tools beyond ChatGPT to become the ""10x developer"". Price: $30"
+"Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]
+ Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included. lecturers: Kirill Eremenko. Master Machine Learning on Python & R
+ Have a great intuition of many Machine Learning models
+ Make accurate predictions
+ Make powerful analysis
+ Make robust Machine Learning models
+ Create strong added value to your business
+ Use Machine Learning for personal purpose
+ Handle specific topics like Reinforcement Learning, NLP and Deep Learning
+ Handle advanced techniques like Dimensionality Reduction
+ Know which Machine Learning model to choose for each type of problem
+ Build an army of powerful Machine Learning models and know how to combine them to solve any problem. Price: $50"
+"Python for Data Science and Machine Learning Bootcamp
+ Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!. lecturers: Jose Portilla. Use Python for Data Science and Machine Learning
+ Use Spark for Big Data Analysis
+ Implement Machine Learning Algorithms
+ Learn to use NumPy for Numerical Data
+ Learn to use Pandas for Data Analysis
+ Learn to use Matplotlib for Python Plotting
+ Learn to use Seaborn for statistical plots
+ Use Plotly for interactive dynamic visualizations
+ Use SciKit-Learn for Machine Learning Tasks
+ K-Means Clustering
+ Logistic Regression
+ Linear Regression
+ Random Forest and Decision Trees
+ Natural Language Processing and Spam Filters
+ Neural Networks
+ Support Vector Machines. price: $40"
+"Mathematical Foundations of Machine Learning
+ Essential Linear Algebra and Calculus Hands-On in NumPy, TensorFlow, and PyTorch. lecturers: SuperDataScience Team. Understand the fundamentals of linear algebra and calculus, critical mathematical subjects underlying all of machine learning and data science
+ Manipulate tensors using all three of the most important Python tensor libraries: NumPy, TensorFlow, and PyTorch
+ How to apply all of the essential vector and matrix operations for machine learning and data science
+ Reduce the dimensionality of complex data to the most informative elements with eigenvectors, SVD, and PCA
+ Solve for unknowns with both simple techniques (e.g., elimination) and advanced techniques (e.g., pseudoinversion)
+ Appreciate how calculus works, from first principles, via interactive code demos in Python
+ Intimately understand advanced differentiation rules like the chain rule
+ Compute the partial derivatives of machine-learning cost functions by hand as well as with TensorFlow and PyTorch
+ Grasp exactly what gradients are and appreciate why they are essential for enabling ML via gradient descent
+ Use integral calculus to determine the area under any given curve
+ Be able to more intimately grasp the details of cutting-edge machine learning papers
+ Develop an understanding of what’s going on beneath the hood of machine learning algorithms, including those used for deep learning. Price: $50"
+"Mathematical Foundations of Machine Learning
+ Essential Linear Algebra and Calculus Hands-On in NumPy, TensorFlow, and PyTorch. lecturers: SuperDataScience Team. Understand the fundamentals of linear algebra and calculus, critical mathematical subjects . Understand the fundamentals of linear algebra and calculus, critical mathematical subjects underlying all of machine learning and data science
+ Manipulate tensors using all three of the most important Python tensor libraries: NumPy, TensorFlow, and PyTorch
+ How to apply all of the essential vector and matrix operations for machine learning and data science
+ Reduce the dimensionality of complex data to the most informative elements with eigenvectors, SVD, and PCA
+ Solve for unknowns with both simple techniques (e.g., elimination) and advanced techniques (e.g., pseudoinversion)
+ Appreciate how calculus works, from first principles, via interactive code demos in Python
+ Intimately understand advanced differentiation rules like the chain rule
+ Compute the partial derivatives of machine-learning cost functions by hand as well as with TensorFlow and PyTorch
+ Grasp exactly what gradients are and appreciate why they are essential for enabling ML via gradient descent
+ Use integral calculus to determine the area under any given curve
+ Be able to more intimately grasp the details of cutting-edge machine learning papers
+ Develop an understanding of what’s going on beneath the hood of machine learning algorithms, including those used for deep learning."
+"The Complete Machine Learning Course with Python
+ Build a Portfolio of 12 Machine Learning Projects with Python, SVM, Regression, Unsupervised Machine Learning & More!lecturers: Codestars • over 2 million students worldwide!. Machine Learning Engineers earn on average $166,000 - become an ideal candidate with this course!
+ Solve any problem in your business, job or personal life with powerful Machine Learning models
+ Train machine learning algorithms to predict house prices, identify handwriting, detect cancer cells & more
+ Go from zero to hero in Python, Seaborn, Matplotlib, Scikit-Learn, SVM, unsupervised Machine Learning etc. Price: $45"
+"NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
+ Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!. lecturers: Academind by Maximilian Schwarzmüller
+ Online Education. Work with one of the most in-demand web development programming languages
+ Learn the basics as well as advanced concepts of NodeJS in great detail
+ Build modern, fast and scalable server-side web applications with NodeJS, databases like SQL or MongoDB and more
+ Understand the NodeJS ecosystem and build server-side rendered apps, REST APIs and GraphQL APIs
+ Get a thorough introduction to DenoJS. Price: $50"
+.
+"[2023] Machine Learning and Deep Learning Bootcamp in Python
+ Machine Learning, Neural Networks, Computer Vision, Deep Learning and Reinforcement Learning in Keras and TensorFlow. Solving regression problems (linear regression and logistic regression)
+ Solving classification problems (naive Bayes classifier, Support Vector Machines - SVMs)
+ Using neural networks (feedforward neural networks, deep neural networks, convolutional neural networks and recurrent neural networks
+ The most up to date machine learning techniques used by firms such as Google or Facebook
+ Face detection with OpenCV
+ TensorFlow and Keras
+ Deep learning - deep neural networks, convolutional neural networks (CNNS), recurrent neural networks (RNNs)
+ Reinforcement learning - Q learning and deep Q learning approaches. Price: $91"
